@@ -1,0 +1,7 @@
+{
+  "log_rmse": 0.11409115634401192,
+  "mae": 15039.581158774616,
+  "trained_at": 1791125693.8525205,
+  "n_train_rows": 400,
+  "trained_on": "recent_live_labeled_data"
+}
